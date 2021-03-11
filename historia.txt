@@ -4,3 +4,6 @@ Este es el curso de Git y GitHub estaremos viendo todos sus comandos y terminos.
 
 Aquí colocaremos sus comandos y los apuntes mas importantes para que puedas repasar
 cuando lo consideres necesario.
+
+Ya cargados los archivos al repositorio podemos hacer cambios directamente desde GitHub y con el comando
+git pull origin master poder verlos en nuestro repositorio local.
